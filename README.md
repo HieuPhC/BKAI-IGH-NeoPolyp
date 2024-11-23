@@ -7,6 +7,8 @@ THe file 'model.pth' should be placed like the following:
 
 --------------------
 
+README.md
+
 assignment.ipynb
 
 infer.py

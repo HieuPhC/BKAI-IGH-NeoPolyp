@@ -9,9 +9,9 @@ location of model.pth:
 
 assignment.ipynb
 
-model.pth
-
 infer.py
+
+model.pth
 
 test_image.png
 

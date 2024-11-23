@@ -13,4 +13,6 @@ model.pth
 
 infer.py
 
+test_image.png
+
 --------------------

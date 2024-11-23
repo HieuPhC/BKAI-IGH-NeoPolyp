@@ -3,7 +3,7 @@ Deep Learning hands on exercise
 
 #TODO add link to model.pth
 
-location of model.pth:
+THe file 'model.pth' should be placed like the following:
 
 --------------------
 

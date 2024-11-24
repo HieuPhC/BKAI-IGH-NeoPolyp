@@ -45,7 +45,7 @@ def main(image_path, output_path):
 
     # Load model and optimizer states
     optimizer = torch.optim.Adam(params=model.parameters(), lr=learning_rate)
-    checkpoint = torch.load(save_path)
+    checkpoint = torch.load(save_path, weights_only=True)
     optimizer.load_state_dict(checkpoint['optimizer'])
     model.load_state_dict(checkpoint['model'])
 
